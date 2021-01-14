@@ -21,8 +21,8 @@
 title: UCSC SASE Git Tutorial
 description: >- # this means to ignore newlines until "baseurl:"
   This is a UCSC SASE Git Tutorial project website
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "btor.me" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/ucsc-sase-git-tutorial" # the subpath of your site, e.g. /blog
+url: "https://btor.me/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
