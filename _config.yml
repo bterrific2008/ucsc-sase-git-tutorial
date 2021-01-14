@@ -1,1 +1,5 @@
+title: UCSC SASE Git Tutorial
+description: A simple website to be used as a project to teach git from.
+
+# Build settings
 theme: jekyll-theme-cayman
