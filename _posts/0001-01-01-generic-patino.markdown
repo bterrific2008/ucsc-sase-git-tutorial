@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Student Generic"
+title:  "Jose Patino"
 date:   2021-01-13 20:38:12 -0800
 categories: jekyll update
 ---
 ## Octocat Name
 
-Octocat Description
+Cat Description: Funny looking cat
 
-![octocat](https://octodex.github.com/images/original.png)
+![Cat](https://i.ytimg.com/vi/UKeI9bdB6Qg/maxresdefault.jpg)
 {: .center}
