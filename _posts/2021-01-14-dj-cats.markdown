@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Student Generic"
+title:  "DJ CATS!"
 date:   2021-01-13 20:38:12 -0800
 categories: jekyll update
 ---
@@ -8,5 +8,5 @@ categories: jekyll update
 
 Octocat Description
 
-![octocat](https://octodex.github.com/images/original.png)
+![octocat](https://octodex.github.com/images/catstello.png)
 {: .center}
