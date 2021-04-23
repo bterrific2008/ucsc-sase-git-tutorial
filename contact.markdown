@@ -4,4 +4,4 @@ title: Contact
 permalink: /contact/
 ---
 
-Tis is generic information to contact someone. It is not known whether the two individuals referenced by the magistrate are connected to Linarez. Further, the seizure was taken to court and a report was submitted to the court. That individual, on that occasion, was fined $100,000 or in default spend nine months in prisno
+This is generic information to contact someone. It is not known whether the two individuals referenced by the website do belong to the website or not. Furthermore, the website is reportedly to be sitting on the internet. That website, on that occasion, receives visitors from other pages.
