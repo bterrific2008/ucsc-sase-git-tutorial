@@ -6,13 +6,6 @@ permalink: /about/
 
 SASE is pretty cool [Website](https://sase.soe.ucsc.edu/)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I am going to append information to the end here.
 
-
-[jekyll-organization]: https://github.com/jekyll
